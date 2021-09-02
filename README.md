@@ -1,0 +1,2 @@
+# water-potability-prediction
+In this notebook I tried making my first machine learning model to predict the potability of drinking water by using both regression and classification model of linear regression, random forest, XGboost and K nearest neighbor. I also tried to calculate n_neighbor value for optimizing KNN model. The best accuracy is given by KNN model for n_neighbor value equals 1 thus I choose that and comment out rest of the models to save computational time. The accuracy comes out to be 68% which I will optimize further as I get deeper in machine learning.
